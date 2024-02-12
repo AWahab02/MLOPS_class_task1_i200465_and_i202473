@@ -12,4 +12,4 @@
 
 #Activity
 
-![image](https://github.com/AWahab02/MLOPS_class_task1_i200465_and_i202473/assets/114500718/1548b192-7ebb-494a-b31d-a2bc5b5dfa0f)
+![image](https://github.com/AWahab02/MLOPS_class_task1_i200465_and_i202473/assets/114500718/341836f4-475b-4b5e-b778-2fd77119cfc3)
